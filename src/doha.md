@@ -1,5 +1,7 @@
-# Doha, the next seven days
+```js
+const forecast = FileAttachment("./data/doha.json").json();
+```
 
 ```js
-display(1 + 2);
+display(forecast);
 ```
