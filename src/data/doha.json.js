@@ -1,6 +1,6 @@
 // EDIT ME — these two numbers decide whose weather this is.
-const latitude = 40.4443;    // Pittsburgh
-const longitude = -79.9436;
+const latitude = 25.2854;   // Doha
+const longitude = 51.5310;
 
 const url = "https://api.open-meteo.com/v1/forecast"
   + `?latitude=${latitude}&longitude=
